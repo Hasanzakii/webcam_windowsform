@@ -1,0 +1,17 @@
+C:\Users\hasan\source\repos\captureDemo\captureDemo\bin\Debug\net6.0-windows\captureDemo.exe
+C:\Users\hasan\source\repos\captureDemo\captureDemo\bin\Debug\net6.0-windows\captureDemo.deps.json
+C:\Users\hasan\source\repos\captureDemo\captureDemo\bin\Debug\net6.0-windows\captureDemo.runtimeconfig.json
+C:\Users\hasan\source\repos\captureDemo\captureDemo\bin\Debug\net6.0-windows\captureDemo.dll
+C:\Users\hasan\source\repos\captureDemo\captureDemo\bin\Debug\net6.0-windows\captureDemo.pdb
+C:\Users\hasan\source\repos\captureDemo\captureDemo\obj\Debug\net6.0-windows\captureDemo.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\captureDemo\captureDemo\obj\Debug\net6.0-windows\captureDemo.Form1.resources
+C:\Users\hasan\source\repos\captureDemo\captureDemo\obj\Debug\net6.0-windows\captureDemo.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\captureDemo\captureDemo\obj\Debug\net6.0-windows\captureDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\captureDemo\captureDemo\obj\Debug\net6.0-windows\captureDemo.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\captureDemo\captureDemo\obj\Debug\net6.0-windows\captureDemo.AssemblyInfo.cs
+C:\Users\hasan\source\repos\captureDemo\captureDemo\obj\Debug\net6.0-windows\captureDemo.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\captureDemo\captureDemo\obj\Debug\net6.0-windows\captureDemo.dll
+C:\Users\hasan\source\repos\captureDemo\captureDemo\obj\Debug\net6.0-windows\refint\captureDemo.dll
+C:\Users\hasan\source\repos\captureDemo\captureDemo\obj\Debug\net6.0-windows\captureDemo.pdb
+C:\Users\hasan\source\repos\captureDemo\captureDemo\obj\Debug\net6.0-windows\captureDemo.genruntimeconfig.cache
+C:\Users\hasan\source\repos\captureDemo\captureDemo\obj\Debug\net6.0-windows\ref\captureDemo.dll
